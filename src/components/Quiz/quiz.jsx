@@ -1,5 +1,5 @@
 import React, {useState, useRef} from 'react'
-import './Quiz.scss'
+import './quiz.scss'
 import {data} from '../../../assets/data'
 
 export const quiz = () => {
